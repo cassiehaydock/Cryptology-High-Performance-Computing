@@ -1,0 +1,14 @@
+# Word Documents
+*.docx
+
+# Ignore compiled object files
+*.o
+
+# Ignore compiled binary files (executables)
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+
